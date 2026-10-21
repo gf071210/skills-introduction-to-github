@@ -1,2 +1,2 @@
 # skills-introduction-to-github
-Exercise: Introduction to GitHub
+我的第一次gitHup练习仓库，学习用
